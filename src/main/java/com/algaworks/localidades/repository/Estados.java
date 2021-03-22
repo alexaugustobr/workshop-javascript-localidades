@@ -14,7 +14,8 @@ public class Estados {
 		return Arrays.asList(
 				new Estado(1L, "MG", "Minas Gerais"),
 				new Estado(2L, "SP", "São Paulo"),
-				new Estado(3L, "GO", "Goiás"));
+				new Estado(3L, "GO", "Goiás"),
+		                new Estado(4L, "MT", "Cuiabá"));
 	}
 	
 }
